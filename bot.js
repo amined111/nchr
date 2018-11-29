@@ -12,7 +12,7 @@ client.on("guildMemberAdd", member => {
 
 مثل مابقيـــنا , بوجودك إلتَّميــــنا , وتشرفـــنا بيكك ياقمــــــــرنا ,, :sparkles::kiss:
 
-تنورنابا وجودك :**
+تنورنابا وجودك :
 
                                  [ http://discord.gg/sM4q2  ] **`)
 }).catch(console.error)
@@ -26,7 +26,7 @@ client.on("guildMemberRemove", member => {
 مثل مابقيـــنا , بوجودك إلتَّميــــنا , وتشرفـــنا بيكك ياقمــــــــرنا ,, :sparkles::kiss:
 
 تنورنابا وجودك :
-**
+
                                  [ http://discord.gg/sM4q2 ] **`)
 }).catch(console.error)
 })
