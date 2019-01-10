@@ -7,7 +7,12 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
+:kissing::heart::eyes: حيااكْ الله  فى سيرفرنا 
 
+‏نقدم لك دعوة لسموك الراقيَ .
+‏لنحظى بجمال حضورك وتواجدك
+شرفنا يا عسل:wink: :kissing_heart:
+سرفر جديد يحتاج دعمكم في تقديم على ادارة
 https://discord.gg/UD7CYu	
 	
 joined info-selfie
@@ -22,6 +27,12 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
+:kissing::heart::eyes: حيااكْ الله  فى سيرفرنا 
+
+‏نقدم لك دعوة لسموك الراقيَ .
+‏لنحظى بجمال حضورك وتواجدك
+شرفنا يا عسل:wink: :kissing_heart:
+سرفر جديد يحتاج دعمكم في تقديم على ادارة
 https://discord.gg/UD7CYu
 
 joined info-selfie
