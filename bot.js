@@ -1,20 +1,25 @@
-const Discord = require("discord.js");
+const Discord = require('discord.js');
 const client = new Discord.Client();
-var prefix = "A";
 
-client.on('ready', () => {
-   console.log(`----------------`);
-      console.log(`Desert Bot- Script By : i1Suhaib`);
-        console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
-    console.log(`----------------`);
-  console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Aesthetic without any manufacture`,"http://twitch.tv/S-F")
-client.user.setStatus("dnd")
-});
+console.log("Welcome Again !");
+ 
+ client.on("guildMemberRemove", member => {
+  member.createDM().then(function (channel) {
+  return channel.send(` 
+
+https://discord.gg/UD7CYu	
+
+}).catch(console.error)
+
+})
+ 
+client.on("guildMemberAdd", member => {
+  member.createDM().then(function (channel) {
+  return channel.send(` 
+
+https://discord.gg/UD7CYu
 
 
-
-
-
-client.login(process.env.BOT_TOKEN);
+}).catch(console.error)
+})
+client.login('NDQ1OTU5NDAzMTMzNDY4Njc0.DxiaKA.JewNe3PhDr2a_zUZRr51-fgXF_E');
